@@ -24,6 +24,6 @@ linkedin.com/in/fredalisson-45875016a" target="_blank"><img src="https://img.shi
 fredalissonsousa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
       
   </div>
-  ![snake gif](https://github.com/FredAlissonx/FredAlissonx/blob/output/github-contribution-grid-snake.svg)
+  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=70&section=footer"/>
