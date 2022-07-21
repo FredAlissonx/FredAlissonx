@@ -1,5 +1,7 @@
 <h3>Hello, my name is Fred Alisson!</h3>
 
+<hr>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+is+Fred+Alisson+Sousa;I'm+19+years+old;I'm+from+Brasil,+Brasília;I+study+Information+Systems+at+UDF;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
