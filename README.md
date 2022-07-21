@@ -1,4 +1,4 @@
-<h1>Hello, i'm Fred Alisson, I am learning about Android with Kotlin and some other things!</h1>
+<h2>Hello, i'm Fred Alisson, I am learning about Android with Kotlin and some other things!</h2>
 
 <hr>
 
