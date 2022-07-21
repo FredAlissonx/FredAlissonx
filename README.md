@@ -1,4 +1,4 @@
-<h2>Hello, i'm Fred Alisson!</h2>
+<h1>Hello, i'm Fred Alisson!</h1>
 
 <hr>
 
