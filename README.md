@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=180&section=header&text=Welcome to my profile!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<h3>Hello, my name is Fred Alisson!</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=Hello,+MY+NAME+is+Fred+Alisson+Sousa;I'm+19+years+old;I'm+from+Brasil,+Brasília;I+study+Information+Systems+at+UDF;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -26,4 +26,4 @@ fredalissonsousa@gmail.com" target="_blank"><img src="https://img.shields.io/bad
   </div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=70&section=footer"/>
+
