@@ -1,4 +1,4 @@
-<h3>Hello, i'm Fred Alisson!</h3>
+<h2>Hello, i'm Fred Alisson!</h2>
 
 <hr>
 
@@ -26,6 +26,17 @@ linkedin.com/in/fredalisson-45875016a" target="_blank"><img src="https://img.shi
 fredalissonsousa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
       
   </div>
+<h2>What am i studying outside the University?</h2>
+- 📱 Studying Android Development.
+      <br>
+- 💻 Learning about Kotlin and Android Environment.
+      <br>
+- 🏆 Maybe learning about Competitive Programming.
+      <br>
+- 📚 Improving my English.
+      <br>
+- 👨 I want to be a great Developer and impact the world! 
+      
   
 
 
