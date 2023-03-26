@@ -3,11 +3,11 @@
 <h3 align="center">A passionate Android Developer from Brazil</h3>
 <img align="right" alt="Coding" width="550" src="https://techcrunch.com/wp-content/uploads/2020/06/new_logos_v3-1.gif">
 
-- 🔭 I’m currently working on **MegaSena Android App**
+- 🔭 I’m currently working at **EY - Ernst & Young**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Android Development and Data Science**
 
-- 💬 Ask me about **Android , Kotlin**
+- 💬 Ask me about **Android , Kotlin and Python**
 
 - 📫 How to reach me **fredalissonsousa@gmail.com**
 
