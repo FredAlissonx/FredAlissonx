@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredalissonx&label=Profile%20views&color=0e75b6&style=flat" alt="fredalissonx" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java** and **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FredAlissonx](https://github.com/FredAlissonx)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/fredalisson/](https://www.linkedin.com/in/fredalisson/)
 
-- 💬 Ask me about **Java and Kotlin**
+- 💬 Ask me about **Java, Kotlin** and **Python**
 
 - 📫 How to reach me **fredalissonsousa@gmail.com**
 
