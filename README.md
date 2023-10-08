@@ -24,6 +24,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width=70/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width=70/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" width=70/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width=70/>
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width=70/>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredalissonx&show_icons=true&locale=en&layout=compact" alt="fredalissonx"/></p>
