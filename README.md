@@ -1,7 +1,8 @@
-<img align="right" src="https://github.com/FredAlissonx/FredAlissonx/blob/main/Code%20type%20-%20black.png" max-width="500px" width="500px" align="right"/>
+
 <h1 align="center">Hi 👋, I'm Fred Alisson</h1>
 <h3 align="center">A passionate Back-End Software Developer from Brazil</h3>
 
+<img align="right" src="https://github.com/FredAlissonx/FredAlissonx/blob/main/Code%20type%20-%20black.png" max-width="500px" width="500px" align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredalissonx&label=Profile%20views&color=0e75b6&style=flat" alt="fredalissonx" /> </p>
 
 - 🌱 I’m currently learning **Java**.
