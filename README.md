@@ -31,6 +31,7 @@
   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredalissonx&show_icons=true&locale=en&layout=compact" alt="fredalissonx"/></p>
+<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredalissonx&show_icons=true&locale=en&layout=compact" alt="fredalissonx" width=450 height=190/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredalissonx&show_icons=true&locale=en" alt="fredalissonx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredalissonx&show_icons=true&locale=en" alt="fredalissonx" width=450/></p>
