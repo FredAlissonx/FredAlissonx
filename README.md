@@ -34,4 +34,4 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredalissonx&show_icons=true&locale=en&layout=compact" alt="fredalissonx" width=400/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredalissonx&show_icons=true&locale=en" alt="fredalissonx" width=390/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredalissonx&show_icons=true&locale=en" alt="fredalissonx" width=385/></p>
