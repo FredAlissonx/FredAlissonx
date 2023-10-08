@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/FredAlissonx/FredAlissonx/blob/main/Code%20type%20-%20black.png" max-width="500px" width="500px" align="right"/>
 <h1 align="center">Hi 👋, I'm Fred Alisson</h1>
 <h3 align="center">A passionate Back-End Software Developer from Brazil</h3>
 
