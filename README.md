@@ -22,8 +22,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="left">
+  <img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width=70/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredalissonx&show_icons=true&locale=en&layout=compact" alt="fredalissonx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredalissonx&show_icons=true&locale=en&layout=compact" alt="fredalissonx"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredalissonx&show_icons=true&locale=en" alt="fredalissonx" /></p>
