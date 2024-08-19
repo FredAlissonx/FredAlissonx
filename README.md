@@ -5,7 +5,7 @@
 <img align="right" src="https://github.com/FredAlissonx/FredAlissonx/blob/main/Code%20type%20-%20black.png" max-width="400px" width="400px" align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredalissonx&label=Profile%20views&color=0e75b6&style=flat" alt="fredalissonx" /> </p>
 
-- 🌱 I’m currently learning **Spark**.
+- 🌱 I’m currently improving my knowledge in **Spark (Python API)**.
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/fredalisson/](https://www.linkedin.com/in/fredalisson/)
 
